@@ -653,7 +653,7 @@ h3.my-profession
 }
 .Interests .Interests-item
 {
-    flex: 0 0 33.33%;
+    flex: 0 33.33% 33.33%;
     max-width: 33.33%;
     margin-bottom: 30px;
 }
@@ -666,7 +666,7 @@ h3.my-profession
 }
 .Interests .Interests-item-inner .Interests-img img
 {
-    width: 100%;
+    
     display: block;
 }
 /* contact */
