@@ -429,6 +429,7 @@ h3.my-profession
     color: var(--text-black-700);
     margin-left: 4px;
     display: inline-block;
+    text-align: center;
 }
 .about .about-content .personal-info .buttons
 {
@@ -652,7 +653,7 @@ h3.my-profession
     font-weight: 500;
 }
 .Interests .Interests-item
-{
+{   
     flex: 0 33.33% 33.33%;
     max-width: 33.33%;
     margin-bottom: 30px;
